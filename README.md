@@ -5,7 +5,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-1.4.2-blueviolet.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-This repository contains the code and resources for the project "COVID-19 Prediction Using Supervised Machine Learning," developed as part of the Machine Learning course (CCS2113) at Albukhary International University. The project focuses on leveraging supervised machine learning algorithms to predict COVID-19 infection based on patient symptoms and exposure data.
+This repository contains the code and resources for the project "COVID-19 Prediction Using Supervised Machine Learning," developed as part of Machine Learning projects i have did at Albukhary International University. The project focuses on leveraging supervised machine learning algorithms to predict COVID-19 infection based on patient symptoms and exposure data.
 
 ## 📋 Table of Contents
 - [Project Overview](#-project-overview)
